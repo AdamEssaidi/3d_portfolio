@@ -6,7 +6,7 @@ import {
   Experience,
   Feedbacks,
   Hero,
-  NavBar,
+  Navbar,
   Tech,
   Works,
   StarsCanvas,
